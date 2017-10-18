@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+title: Living in Thame
+description: This is a site about living in the Oxfordshire market town of Thame
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
